@@ -1,6 +1,6 @@
 import express from "express";
 import cors from 'cors';
-import { music } from '../data/songs.js';
+import music from '../data/songs.json' assert {type:"json"};
 const app = express();
 const PORT = process.env.PORT || 2323;
 app.use(cors({
@@ -12,7 +12,11 @@ app.use(express.json());
 app.get("/", async (req, res) => {
   res.status(200).send(music);
 });
-app.use((req, res) => {
+app.get('/songs',async(req,res) => {
+  const songs = music.flatMap((album) => album.canciones)
+  res.json(songs)
+})
+app.use(async(req, res) => {
   res.status(404).send("404 NOT FOUND");
 });
 app.listen(PORT,() => {
