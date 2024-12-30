@@ -3,9 +3,16 @@ import cors from 'cors';
 import music from '../data/songs.json' assert {type:"json"};
 const app = express();
 const PORT = process.env.PORT || 2323;
+const allowedOrigins = ['https://music-player-kappa-orcin.vercel.app/', 'http://localhost:5173'];
 app.use(cors({
   methods:'GET',
-  origin:'*'
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  }
 }));
 app.disable('x-powered-by')
 app.use(express.json());
