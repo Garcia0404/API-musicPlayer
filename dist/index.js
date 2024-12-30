@@ -7,9 +7,16 @@ import cors from 'cors';
 import music from '../data/songs.json' assert { type: "json" };
 var app = express();
 var PORT = process.env.PORT || 2323;
+var allowedOrigins = ['https://music-player-kappa-orcin.vercel.app', 'http://localhost:5173'];
 app.use(cors({
   methods: 'GET',
-  origin: '*'
+  origin: function origin(_origin, callback) {
+    if (!_origin || allowedOrigins.indexOf(_origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  }
 }));
 app.disable('x-powered-by');
 app.use(express.json());
