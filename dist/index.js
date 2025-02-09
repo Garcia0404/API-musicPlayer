@@ -7,7 +7,7 @@ import cors from 'cors';
 import music from '../data/songs.json' assert { type: "json" };
 var app = express();
 var PORT = process.env.PORT || 2323;
-var allowedOrigins = ['https://music-player-kappa-orcin.vercel.app', 'http://localhost:5173'];
+var allowedOrigins = ['https://music-player-kappa-orcin.vercel.app', 'http://localhost:5173', 'http://localhost:4173'];
 app.use(cors({
   methods: 'GET',
   origin: function origin(_origin, callback) {
@@ -36,6 +36,9 @@ app.get("/", /*#__PURE__*/function () {
     return _ref.apply(this, arguments);
   };
 }());
+// app.get("/albums/:id",async( req,res) => {
+//   const {id} = req.params
+// })
 app.get('/songs', /*#__PURE__*/function () {
   var _ref2 = _asyncToGenerator(/*#__PURE__*/_regeneratorRuntime().mark(function _callee2(req, res) {
     var songs;

@@ -19,6 +19,9 @@ app.use(express.json());
 app.get("/", async (req, res) => {
   res.status(200).send(music);
 });
+// app.get("/albums/:id",async( req,res) => {
+//   const {id} = req.params
+// })
 app.get('/songs',async(req,res) => {
   const songs = music.flatMap((album) => album.canciones)
   res.json(songs)
