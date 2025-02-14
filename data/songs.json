@@ -5,6 +5,7 @@
     "lanzamiento": "27 de agosto del 2001",
     "año": "2001",
     "image": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp",
+    "backgroundColor":"#3B2D2D",
     "canciones": [
       {
         "name": "Is This It",
@@ -13,7 +14,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "The Modern Age",
@@ -22,7 +24,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Soma",
@@ -31,7 +34,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Barely Legal",
@@ -40,7 +44,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Someday",
@@ -49,7 +54,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Alone, Together",
@@ -58,7 +64,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Last Nite",
@@ -67,7 +74,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Hard To Explain",
@@ -76,7 +84,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "New York City Cops",
@@ -85,7 +94,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Trying Your Luck",
@@ -94,7 +104,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       },
       {
         "name": "Take It or Leave It",
@@ -103,7 +114,8 @@
         "album": {
           "albumName": "Is This It",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/isthisit.webp"
-        }
+        },
+        "backgroundColor":"#3B2D2D"
       }
     ]
   },
@@ -113,6 +125,7 @@
     "lanzamiento": "28 de octubre del 2003",
     "año": "2003",
     "image": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp",
+    "backgroundColor":"#B12121",
     "canciones": [
       {
         "name": "What Ever Happened?",
@@ -121,7 +134,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "Reptilia",
@@ -130,7 +144,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "Automatic Stop",
@@ -139,7 +154,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "12:51",
@@ -148,7 +164,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "You Talk Way Too Much",
@@ -157,7 +174,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "Between Love & Hate",
@@ -166,7 +184,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "Meet Me In The Bathroom",
@@ -175,7 +194,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "The Way It Is",
@@ -184,7 +204,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "The End Has No End",
@@ -193,7 +214,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       },
       {
         "name": "I Can't Win",
@@ -202,7 +224,8 @@
         "album": {
           "albumName": "Room On Fire",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/roomonfire.webp"
-        }
+        },
+        "backgroundColor":"#B12121"
       }
     ]
   },
@@ -212,6 +235,7 @@
     "lanzamiento": "3 de enero del 2006",
     "año": "2006",
     "image": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp",
+    "backgroundColor":"#27353C",
     "canciones": [
       {
         "name": "You Only Live Once",
@@ -220,7 +244,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Juicebox",
@@ -229,7 +254,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Heart In A Cage",
@@ -238,7 +264,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Razorblade",
@@ -247,7 +274,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "On The Other Side",
@@ -256,7 +284,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Vision Of Division",
@@ -265,7 +294,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Ask Me Anything",
@@ -274,7 +304,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Electricityscape",
@@ -283,7 +314,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Killing Lies",
@@ -292,7 +324,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Fear Of Sleep",
@@ -301,7 +334,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "15 Minutes",
@@ -310,7 +344,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Ize Of The World",
@@ -319,7 +354,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Evening Sun",
@@ -328,7 +364,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       },
       {
         "name": "Red Light",
@@ -337,7 +374,8 @@
         "album": {
           "albumName": "First Impressions Of Earth",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/firstimpressionsofearth.webp"
-        }
+        },
+        "backgroundColor":"#27353C"
       }
     ]
   },
@@ -347,6 +385,7 @@
     "lanzamiento": "22 de marzo de 2011",
     "año": "2011",
     "image": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp",
+    "backgroundColor":"#206D98",
     "canciones": [
       {
         "name": "Machu Picchu",
@@ -355,7 +394,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Under Cover Of Darkness",
@@ -364,7 +404,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Two Kinds Of Happiness",
@@ -373,7 +414,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "You're So Right",
@@ -382,7 +424,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Taken For A Fool",
@@ -391,7 +434,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Games",
@@ -400,7 +444,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Call Me Back",
@@ -409,7 +454,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Gratisfaction",
@@ -418,7 +464,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Metabolism",
@@ -427,7 +474,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       },
       {
         "name": "Life Is Simple In The Moonlight",
@@ -436,7 +484,8 @@
         "album": {
           "albumName": "Angles",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/angles.webp"
-        }
+        },
+        "backgroundColor":"#206D98"
       }
     ]
   },
@@ -446,6 +495,7 @@
     "lanzamiento": "26 de marzo del 2013",
     "año": "2013",
     "image": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp",
+    "backgroundColor":"#A32727",
     "canciones": [
       {
         "name": "Tap Out",
@@ -454,7 +504,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "All The Time",
@@ -463,7 +514,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "One Way Trigger",
@@ -472,7 +524,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "Welcome To Japan",
@@ -481,7 +534,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "80's Comedown Machine",
@@ -490,7 +544,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "50_50",
@@ -499,7 +554,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "Slow Animals",
@@ -508,7 +564,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "Partners In Crime",
@@ -517,7 +574,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "Chances",
@@ -526,7 +584,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "Happy Ending",
@@ -535,7 +594,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       },
       {
         "name": "Call It Fate, Call It Karma",
@@ -544,7 +604,8 @@
         "album": {
           "albumName": "Comedown Machine",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/comedownmachine.webp"
-        }
+        },
+        "backgroundColor":"#A32727"
       }
     ]
   },
@@ -554,6 +615,7 @@
     "lanzamiento": "10 de abril de 2020",
     "año": "2020",
     "image": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp",
+    "backgroundColor":"#038196",
     "canciones": [
       {
         "name": "The Adults Are Talking",
@@ -562,7 +624,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Selfless",
@@ -571,7 +634,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Brooklyn Bridge To Chorus",
@@ -580,7 +644,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Bad Decisions",
@@ -589,7 +654,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Eternal Summer",
@@ -598,7 +664,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "At The Door",
@@ -607,7 +674,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Why Are Sundays So Depressing?",
@@ -616,7 +684,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Not The Same Anymore",
@@ -625,7 +694,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       },
       {
         "name": "Ode To The Mets",
@@ -634,7 +704,8 @@
         "album": {
           "albumName": "The New Abnormal",
           "albumImg": "https://res.cloudinary.com/dxpkfx5b4/image/upload/v1735529489/strokes/thenewabnormal.webp"
-        }
+        },
+        "backgroundColor":"#038196"
       }
     ]
   }
